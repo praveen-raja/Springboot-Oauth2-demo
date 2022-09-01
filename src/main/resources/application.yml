@@ -6,3 +6,6 @@ spring:
           github:
             clientId: c38023fae4cbdb64bd3f
             clientSecret: a9f2ff31e7659c14b096cde84dbdfcfb4ac2b402
+            
+server:
+  port: 8000
